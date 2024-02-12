@@ -1,5 +1,5 @@
 # 📱💰 Conversor de Moedas
-> Desenvolvido na Aula Do DevClub
+> Desenvolvido na Aula de Javascript Do DevClub
 > 
 > Desenvolvido por Lucimar Simione Da Silva, (12/02/2024).
 
@@ -11,5 +11,5 @@
 
 
 ## ❗ Sobre o App
-> O objetivo do Conversor de Moedas é, a partir da cotação do dólar apresentada pelo usuário, exibir o valor do Real convertido para Dólar, Euro, Libra, Bitcoin
+> O objetivo do Conversor de Moedas é, a partir da cotação do Real apresentada pelo usuário, exibir o valor do Real convertido para Dólar, Euro, Libra, Bitcoin
 > Valores Ficticios usados apenas para demonstração.
