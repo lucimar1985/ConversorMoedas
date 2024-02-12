@@ -1,5 +1,5 @@
 # 📱💰 Conversor de Moedas
-> Desenvolvido na Aula de Javascript Do DevClub
+> Desenvolvido na Aula de Javascript Do DevClub MD2
 > 
 > Desenvolvido por Lucimar Simione Da Silva, (12/02/2024).
 
